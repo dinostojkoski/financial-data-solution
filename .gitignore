@@ -1,0 +1,5 @@
+.venv/
+*.pyc
+__pycache__/
+docker-compose.override.yml
+.idea/
